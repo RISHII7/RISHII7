@@ -1,237 +1,299 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rushikesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Serverless%20Architect%20%7C%20AI%20Builder&descSize=16&descAlignY=52&descAlign=50" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED WAVE HEADER                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Typing SVG -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rushikesh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Engineer%20%E2%80%A2%20Serverless%20Architect%20%E2%80%A2%20AI%20Builder&descSize=16&descAlignY=52&descAlign=50" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TYPING ANIMATION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=600&lines=Building+systems+that+scale+%F0%9F%9A%80;Serverless+%7C+AI+%7C+Edge+Computing+%E2%9A%A1;944%2B+contributions+and+counting+%F0%9F%94%A5;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%E2%9A%A1+Building+systems+that+scale+to+millions;%F0%9F%A7%A0+Serverless+%7C+Edge+Computing+%7C+GenAI;%F0%9F%94%A5+944%2B+contributions+and+counting;%F0%9F%A4%9D+Open+to+collaborations+%26+open+source" alt="Typing SVG" />
 </a>
 
 <br />
 
-<!-- Social Badges -->
-<a href="https://rushikesh-indol.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/rushikesh07" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/rishii__0702" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       SOCIAL BADGES                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<a href="https://rushikesh-indol.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/rushikesh07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://instagram.com/rishii__0702" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+
+<br /><br />
 
 </div>
 
-<br />
-
-<!-- Divider -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         DIVIDER                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <br />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+<div align="center">
 
-<table>
-  <tr>
-    <td>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> &nbsp;Who Am I
 
-🧑‍💻 **Rushikesh** · `@RISHII7` · 🇮🇳 India
+</div>
 
-🛠️ Currently engineering **Nodebase** — a node-based workflow automation engine (like n8n) to build and run custom automated pipelines.
+<table align="center">
+<tr>
+<td>
 
-🏠 Recently shipped **Roomify** — an AI-powered 3D rendering SaaS with Gemini AI & Puter.js serverless cloud.
+### 👨‍💻 &nbsp;Rushikesh &nbsp;`@RISHII7`
 
-🎯 Interests: `Serverless & Edge Computing` · `Generative AI` · `Real-time Systems` · `System Design`
+I'm a **Full-Stack Software Engineer** from 🇮🇳 India who architects **scalable web applications**, **serverless edge systems**, and **AI-driven platforms**. I believe in building software that doesn't just work — it works at scale, under pressure, and looks beautiful doing it.
 
-🤝 Open to: `Open-source contributions` · `WebRTC projects` · `Freelance & contract work`
+- 🔭 &nbsp;Currently engineering **Nodebase** — a visual workflow automation engine inspired by n8n
+- 🏠 &nbsp;Recently shipped **[Roomify](https://roomify-virid-six.vercel.app)** — AI-powered 3D rendering SaaS
+- 🎯 &nbsp;Deep into `Serverless` · `Edge Computing` · `Generative AI` · `System Design`
+- 🤝 &nbsp;Open to: **Open-source** · **WebRTC projects** · **Freelance & contracts**
+- ⚡ &nbsp;Fun fact: I reverse-engineer production apps from scratch to master them
 
-⚡ Fun fact: I reverse-engineer popular apps from scratch to master their architecture!
-
-   </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br />
 
-<!-- Divider -->
+<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br />
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RISHII7&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+## 🚀 &nbsp;Featured Implementations
+
 </div>
 
 <br />
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br />
-
-## 🚀 Featured Implementations
-
 <div align="center">
-
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Roomify 🏠</h3>
-      <p align="center">
-        <a href="https://roomify-virid-six.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-▶-blueviolet?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/RISHII7/roomify" target="_blank">
-          <img src="https://img.shields.io/badge/SOURCE-CODE-black?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p align="center"><strong>React Router 7 • Puter.js • Gemini AI • Tailwind v4</strong></p>
-      <p align="center">Serverless AI SaaS that transforms 2D floor plans into photorealistic 3D architectural renders using edge workers and Gemini vision models.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Nodebase 🔗</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/STATUS-IN_DEV-orange?style=for-the-badge" />
-      </p>
-      <p align="center"><strong>Next.js • TypeScript • Tailwind • Node.js</strong></p>
-      <p align="center">Visual workflow automation platform inspired by n8n. Connect nodes, build pipelines, and orchestrate serverless tasks through a drag-and-drop canvas.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">YOOM 🎥</h3>
-      <p align="center">
-        <a href="https://yoom-ruddy.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-▶-blueviolet?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center"><strong>Next.js • TypeScript • GetStream • Clerk • Tailwind</strong></p>
-      <p align="center">Full-featured WebRTC video conferencing platform with instant calls, scheduled meetings, recordings, and secure authentication.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Finance Tracker 📊</h3>
-      <p align="center">
-        <a href="https://finance-two-ecru.vercel.app/sign-in" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-▶-blueviolet?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center"><strong>React • Chart.js • Node.js • Express • MongoDB</strong></p>
-      <p align="center">Visual financial analytics dashboard with dynamic transaction graphs, secure login flow, and custom monthly budget tracking.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏠 Roomify</h3>
+
+<div align="center">
+
+<a href="https://roomify-virid-six.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-blueviolet?style=for-the-badge" /></a>
+<a href="https://github.com/RISHII7/roomify"><img src="https://img.shields.io/badge/SOURCE_CODE-black?style=for-the-badge&logo=github" /></a>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,vercel&theme=dark" height="36" />
+
+</div>
+
+<br />
+
+<p align="center">
+<strong>Serverless AI 3D rendering SaaS</strong> — transforms 2D floor plans into photorealistic 3D architectural models using Puter.js edge workers and Google Gemini vision AI.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔗 Nodebase</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/⚙_IN_DEVELOPMENT-orange?style=for-the-badge" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs&theme=dark" height="36" />
+
+</div>
+
+<br />
+
+<p align="center">
+<strong>Visual workflow automation platform</strong> — an n8n-inspired drag-and-drop canvas to connect nodes, build pipelines, and orchestrate serverless automation tasks.
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎥 YOOM</h3>
+
+<div align="center">
+
+<a href="https://yoom-ruddy.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-blueviolet?style=for-the-badge" /></a>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel&theme=dark" height="36" />
+
+</div>
+
+<br />
+
+<p align="center">
+<strong>Full-featured WebRTC conferencing platform</strong> — Zoom-inspired with instant video calls, scheduled meetings, cloud recordings, and Clerk authentication.
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 Finance Tracker</h3>
+
+<div align="center">
+
+<a href="https://finance-two-ecru.vercel.app/sign-in"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-blueviolet?style=for-the-badge" /></a>
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="36" />
+
+</div>
+
+<br />
+
+<p align="center">
+<strong>Visual financial analytics dashboard</strong> — dynamic transaction graphs, secure authentication flows, budget boundaries, and instant CSV data exports.
+</p>
+
+</td>
+</tr>
 </table>
-
 </div>
 
 <br />
 
-<!-- Divider -->
+<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<br />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 💻 Tech Arsenal
+<br />
 
 <div align="center">
 
-### 🌐 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## 💻 &nbsp;Tech Arsenal
 
-### 🚀 Frontend
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br />
 
-### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+### ⚡ &nbsp;Core Languages
 
-### 🛠️ DevOps & Tools
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css&theme=dark" />
+
+<br /><br />
+
+### 🎨 &nbsp;Frontend & UI
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,threejs,bootstrap&theme=dark" />
+
+<br /><br />
+
+### ⚙️ &nbsp;Backend, Databases & Auth
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql&theme=dark" />
+
+<br /><br />
+
+### 🛠️ &nbsp;DevOps, Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,githubactions,figma&theme=dark" />
 
 </div>
 
 <br />
 
-<!-- Divider -->
+<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<br />
-
-## 📊 Performance Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHII7&theme=aura&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHII7&theme=aura&hide_border=true&layout=compact&cache_seconds=86400" height="180" />
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PERFORMANCE METRICS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHII7&theme=aura&hide_border=true" width="70%" />
+
+## 📊 &nbsp;Performance Metrics
+
+<br />
+
+<!-- Streak Stats - VERIFIED WORKING -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHII7&theme=aura&hide_border=true" width="70%" />
+
+<br /><br />
+
+<!-- Activity Graph - VERIFIED WORKING -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHII7&bg_color=15141b&color=a960ff&line=a960ff&point=ff6690&area=true&area_color=a960ff&hide_border=true&custom_title=Contribution%20Timeline" width="97%" />
+
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHII7&bg_color=15141b&color=a960ff&line=a960ff&point=ff6690&area=true&area_color=a960ff&hide_border=true" width="97%" />
-</div>
-
-<br />
-
-<!-- Divider -->
+<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION SNAKE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <br />
 
-## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="https://github.com/RISHII7/RISHII7/blob/output/github-snake-dark.svg" width="100%" />
+
+## 🐍 &nbsp;Contribution Snake
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RISHII7/RISHII7/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RISHII7/RISHII7/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/RISHII7/RISHII7/blob/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
 <br />
 
-<!-- Divider -->
+<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FOOTER: QUOTE + COUNTER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <br />
 
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=RISHII7&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  <br />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=RISHII7&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
 <br />
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED WAVE FOOTER                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
