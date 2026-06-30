@@ -1,299 +1,270 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║   RUSHIKESH · @RISHII7 · cinematic profile  (violet/blue)     ║ -->
+<!-- ║   Animated assets live in /assets — see the repo's README PR. ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED WAVE HEADER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/hero.svg" width="100%" alt="Rushikesh — Full-Stack Engineer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rushikesh&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Engineer%20%E2%80%A2%20Serverless%20Architect%20%E2%80%A2%20AI%20Builder&descSize=16&descAlignY=52&descAlign=50" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%E2%9A%A1+Building+systems+that+scale+to+millions;%F0%9F%A7%A0+Serverless+%7C+Edge+Computing+%7C+GenAI;%F0%9F%94%A5+944%2B+contributions+and+counting;%F0%9F%A4%9D+Open+to+collaborations+%26+open+source" alt="Typing SVG" />
+<a href="https://github.com/RISHII7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=46&lines=Full-Stack+Engineer+%40+Barclays;Serverless+%26+Edge+Architect;Generative+AI+Builder+%26+Tinkerer;I+reverse-engineer+prod+apps+to+master+them" alt="roles"/>
 </a>
 
-<br />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SOCIAL BADGES                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://rushikesh-indol.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/rushikesh07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://instagram.com/rishii__0702" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-
-<br /><br />
+<p>
+  <a href="https://rushikesh-indol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=8b5cf6&labelColor=0d1117"/></a>
+  <a href="https://www.linkedin.com/in/rushikesh07"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6&labelColor=0d1117"/></a>
+  <a href="https://instagram.com/rishii__0702"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e1306c&labelColor=0d1117"/></a>
+  <a href="mailto:rishikesh.palande07@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=0d1117"/></a>
+  <img src="https://komarev.com/ghpvc/?username=RISHII7&label=VISITORS&color=8b5cf6&style=for-the-badge"/>
+</p>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DIVIDER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/divider.svg" width="100%" alt="―――"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br />
-
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> &nbsp;Who Am I
-
-</div>
-
-<table align="center">
-<tr>
-<td>
-
-### 👨‍💻 &nbsp;Rushikesh &nbsp;`@RISHII7`
-
-I'm a **Full-Stack Software Engineer** from 🇮🇳 India who architects **scalable web applications**, **serverless edge systems**, and **AI-driven platforms**. I believe in building software that doesn't just work — it works at scale, under pressure, and looks beautiful doing it.
-
-- 🔭 &nbsp;Currently engineering **Nodebase** — a visual workflow automation engine inspired by n8n
-- 🏠 &nbsp;Recently shipped **[Roomify](https://roomify-virid-six.vercel.app)** — AI-powered 3D rendering SaaS
-- 🎯 &nbsp;Deep into `Serverless` · `Edge Computing` · `Generative AI` · `System Design`
-- 🤝 &nbsp;Open to: **Open-source** · **WebRTC projects** · **Freelance & contracts**
-- ⚡ &nbsp;Fun fact: I reverse-engineer production apps from scratch to master them
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br />
-
-<div align="center">
-
-## 🚀 &nbsp;Featured Implementations
-
-</div>
-
-<br />
-
-<div align="center">
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  WHO  ░░░░░░░░░░░░░░░░░░░░░░ -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-<h3 align="center">🏠 Roomify</h3>
+### `> whoami`
 
-<div align="center">
-
-<a href="https://roomify-virid-six.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-blueviolet?style=for-the-badge" /></a>
-<a href="https://github.com/RISHII7/roomify"><img src="https://img.shields.io/badge/SOURCE_CODE-black?style=for-the-badge&logo=github" /></a>
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,vercel&theme=dark" height="36" />
-
-</div>
-
-<br />
-
-<p align="center">
-<strong>Serverless AI 3D rendering SaaS</strong> — transforms 2D floor plans into photorealistic 3D architectural models using Puter.js edge workers and Google Gemini vision AI.
-</p>
+```yaml
+name:        Rushikesh
+alias:       RISHII7
+role:        Full-Stack Engineer @ Barclays
+location:    Noida, India  ·  IST (UTC+5:30)
+focus:       [ serverless, edge, generative-AI, system-design ]
+philosophy:  "reverse-engineer production apps from scratch to master them"
+status:      open to → open-source · WebRTC · freelance
+currently:   shipping ghost-ai + echo monorepo
+```
 
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔗 Nodebase</h3>
+<td width="38%" valign="top">
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/⚙_IN_DEVELOPMENT-orange?style=for-the-badge" />
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs&theme=dark" height="36" />
-
+  <img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/orbit.svg" width="260" alt="tech orbit"/>
 </div>
-
-<br />
-
-<p align="center">
-<strong>Visual workflow automation platform</strong> — an n8n-inspired drag-and-drop canvas to connect nodes, build pipelines, and orchestrate serverless automation tasks.
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🎥 YOOM</h3>
-
-<div align="center">
-
-<a href="https://yoom-ruddy.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-blueviolet?style=for-the-badge" /></a>
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel&theme=dark" height="36" />
-
-</div>
-
-<br />
-
-<p align="center">
-<strong>Full-featured WebRTC conferencing platform</strong> — Zoom-inspired with instant video calls, scheduled meetings, cloud recordings, and Clerk authentication.
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📊 Finance Tracker</h3>
-
-<div align="center">
-
-<a href="https://finance-two-ecru.vercel.app/sign-in"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-blueviolet?style=for-the-badge" /></a>
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" height="36" />
-
-</div>
-
-<br />
-
-<p align="center">
-<strong>Visual financial analytics dashboard</strong> — dynamic transaction graphs, secure authentication flows, budget boundaries, and instant CSV data exports.
-</p>
 
 </td>
 </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/divider.svg" width="100%" alt="―――"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
+
+### ⚡ Tech Arsenal
+
+**`Languages`**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+**`Frontend`**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+**`Backend · Data`**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white"/>
+
+**`Cloud · DevOps · AI`**
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+
 </div>
 
-<br />
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/divider.svg" width="100%" alt="―――"/>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  FEATURED BUILDS  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center"><h3>🛠️ Featured Builds</h3></div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-<br />
+<a href="https://github.com/RISHII7/echo">
+  <img src="https://opengraph.githubassets.com/echo1/RISHII7/echo" width="100%" alt="echo"/>
+</a>
+
+#### [echo](https://github.com/RISHII7/echo) ⭐
+
+`Enterprise-grade full-stack monorepo`
+
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white"/> <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/> <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui"/>
+
+<details><summary><b>read more</b></summary><br/>
+A production-shaped monorepo: Next.js 16 + Convex realtime backend, Clerk auth, Turborepo task graph, shadcn/ui design system. Built to study how enterprise apps wire auth, multi-tenant data, and CI together.
+</details>
+
+<a href="https://github.com/RISHII7/echo"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/RISHII7/ghost-ai">
+  <img src="https://opengraph.githubassets.com/ghost1/RISHII7/ghost-ai" width="100%" alt="ghost-ai"/>
+</a>
+
+#### [ghost-ai](https://github.com/RISHII7/ghost-ai)
+
+`Realtime whiteboard + autonomous AI architect`
+
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Liveblocks-FF5C00?style=flat-square&logo=liveblocks&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+<details><summary><b>read more</b></summary><br/>
+A collaborative system-design canvas where multiple cursors draw architecture in realtime (Liveblocks) while an autonomous Gemini agent proposes, critiques, and renders the system as a software architect would.
+</details>
+
+<a href="https://github.com/RISHII7/ghost-ai"><img src="https://img.shields.io/badge/Code-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/RISHII7/roomify">
+  <img src="https://opengraph.githubassets.com/roomify1/RISHII7/roomify" width="100%" alt="roomify"/>
+</a>
+
+#### [roomify](https://github.com/RISHII7/roomify)
+
+`2D floor plans → photorealistic 3D renders`
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Puter.js-181758?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+
+<details><summary><b>read more</b></summary><br/>
+A serverless AI SaaS that turns 2D blueprints into photorealistic 3D models using Puter.js for compute and Google Gemini for vision — no backend servers to maintain.
+</details>
+
+<a href="https://github.com/RISHII7/roomify"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://rushikesh-indol.vercel.app/"><img src="https://img.shields.io/badge/Live-22d3ee?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/RISHII7/Nimbus">
+  <img src="https://opengraph.githubassets.com/nimbus1/RISHII7/Nimbus" width="100%" alt="Nimbus"/>
+</a>
+
+#### [Nimbus](https://github.com/RISHII7/Nimbus)
+
+`Immersive 3D keyboard showcase`
+
+<img src="https://img.shields.io/badge/R3F-000?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=white"/>
+
+<details><summary><b>read more</b></summary><br/>
+A premium product site with scroll-driven 3D animation — React Three Fiber + Three.js + GSAP timelines orchestrating a cinematic keyboard reveal.
+</details>
+
+<a href="https://github.com/RISHII7/Nimbus"><img src="https://img.shields.io/badge/Code-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-## 💻 &nbsp;Tech Arsenal
+<details>
+<summary><b>＋ one more · Apple-Macbook</b></summary>
+<br/>
+<a href="https://github.com/RISHII7/Apple-Macbook"><img src="https://opengraph.githubassets.com/apple1/RISHII7/Apple-Macbook" width="70%" alt="Apple-Macbook"/></a>
+<br/><br/>
+<b>Apple-style 3D product site</b> · React · Three.js · GSAP · Tailwind — realistic 3D product visualization with Apple-grade scroll choreography. ⭐ 5
+<br/><br/>
+<a href="https://github.com/RISHII7/Apple-Macbook"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a>
+</details>
 
-<br />
-
-### ⚡ &nbsp;Core Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css&theme=dark" />
-
-<br /><br />
-
-### 🎨 &nbsp;Frontend & UI
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,vite,tailwind,threejs,bootstrap&theme=dark" />
-
-<br /><br />
-
-### ⚙️ &nbsp;Backend, Databases & Auth
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql&theme=dark" />
-
-<br /><br />
-
-### 🛠️ &nbsp;DevOps, Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,githubactions,figma&theme=dark" />
+<a href="https://github.com/RISHII7?tab=repositories"><img src="https://img.shields.io/badge/See_all_repos_→-0d1117?style=for-the-badge&logo=github&logoColor=8b5cf6"/></a>
 
 </div>
 
-<br />
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/divider.svg" width="100%" alt="―――"/>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PERFORMANCE METRICS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br />
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  ANALYTICS  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center"><h3>📊 GitHub Telemetry</h3></div>
 
 <div align="center">
 
-## 📊 &nbsp;Performance Metrics
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RISHII7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=RISHII7&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=22d3ee&currStreakNum=c9d1d9&currStreakLabel=8b5cf6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e"/>
 
-<br />
-
-<!-- Streak Stats - VERIFIED WORKING -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHII7&theme=aura&hide_border=true" width="70%" />
-
-<br /><br />
-
-<!-- Activity Graph - VERIFIED WORKING -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHII7&bg_color=15141b&color=a960ff&line=a960ff&point=ff6690&area=true&area_color=a960ff&hide_border=true&custom_title=Contribution%20Timeline" width="97%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHII7&layout=compact&langs_count=8&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=RISHII7&theme=algolia&no-frame=true&no-bg=true&column=4&row=2&margin-w=6&margin-h=6"/>
 
 </div>
-
-<br />
-
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br />
 
 <div align="center">
-
-## 🐍 &nbsp;Contribution Snake
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RISHII7/RISHII7/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RISHII7/RISHII7/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/RISHII7/RISHII7/blob/output/github-snake-dark.svg" width="100%" />
-</picture>
-
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RISHII7&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=3b82f6&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Pulse"/>
 </div>
 
-<br />
+<!-- ░░░░  contribution snake (generated by Action → output branch)  ░░░░ -->
+<div align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/RISHII7/RISHII7/output/github-snake-dark.svg" alt="snake eating my contributions"/>
+</div>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/divider.svg" width="100%" alt="―――"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FOOTER: QUOTE + COUNTER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br />
-
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  EASTER EGGS  ░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+<details>
+<summary>🛸 <code>decrypt_transmission.exe</code></summary>
 
-<br /><br />
+```
+        .  *  .   ·   .  ✦   ·   .  *   .  ·  ✦   .
+   ·   ___________      ·       ✦         .    ·
+      /  R I S H  /|        "First, solve the problem.
+     /__________/ |  ✦       Then, write the code."
+     |  ◍  ◍   | |              — and if it breaks at 2am,
+     |   ___    | /   ·          reverse-engineer it till it doesn't.
+     |__________|/
+        ·   .   ✦    ·   .   *   .   ·   ✦   .   *
+```
 
-<img src="https://komarev.com/ghpvc/?username=RISHII7&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</details>
+
+<details>
+<summary>☕ <code>system.diagnostics --about-me</code></summary>
+
+```bash
+$ rishii7 --status
+> uptime ........... shipping since first 'console.log'
+> fuel ............. ▓▓▓▓▓▓▓▓▓░ 92% (coffee)
+> open_tabs ........ 47 (3 are docs, 44 are stackoverflow)
+> current_quest .... make ghost-ai think like a real architect
+> superpower ....... breaking prod apps apart to learn how they tick
+> exit_code ........ 0  // we don't ship red builds here
+```
+
+</details>
 
 </div>
 
-<br />
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/footer.svg" width="100%" alt="thanks for scrolling"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED WAVE FOOTER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <sub>✦ built in the dark, lit by neon · snake by <a href="https://github.com/Platane/snk">Platane/snk</a> ✦</sub>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<!-- 🥚 you found the bottom. now go build something. -->
