@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 60" width="1000" height="60" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="dg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="400" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+      <animate attributeName="x1" values="-400;1000" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1400" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="b"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+  <path id="wave" d="M0 30 Q 250 6 500 30 T 1000 30" fill="none" stroke="#1f2937" stroke-width="1.5" opacity=".5"/>
+  <use href="#wave" stroke="url(#dg)" stroke-width="3" filter="url(#b)"/>
+  <use href="#wave" stroke="url(#dg)" stroke-width="1.5"/>
+  <circle r="3.5" fill="#22d3ee">
+    <animateMotion dur="3s" repeatCount="indefinite" rotate="auto"><mpath href="#wave"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
