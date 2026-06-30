@@ -105,7 +105,7 @@ currently:   shipping ghost-ai + echo monorepo
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/RISHII7/echo">
-  <img src="https://opengraph.githubassets.com/echo1/RISHII7/echo" width="100%" alt="echo"/>
+  <img src="https://image.thum.io/get/width/1280/crop/800/wait/6/noanimate/https://github.com/RISHII7/echo" width="100%" alt="echo"/>
 </a>
 
 #### [echo](https://github.com/RISHII7/echo) ⭐
@@ -123,8 +123,8 @@ A production-shaped monorepo: Next.js 16 + Convex realtime backend, Clerk auth, 
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/RISHII7/ghost-ai">
-  <img src="https://opengraph.githubassets.com/ghost1/RISHII7/ghost-ai" width="100%" alt="ghost-ai"/>
+<a href="https://ghost-ai-ruby.vercel.app">
+  <img src="https://image.thum.io/get/width/1280/crop/800/wait/6/noanimate/https://ghost-ai-ruby.vercel.app" width="100%" alt="ghost-ai live preview"/>
 </a>
 
 #### [ghost-ai](https://github.com/RISHII7/ghost-ai)
@@ -137,15 +137,15 @@ A production-shaped monorepo: Next.js 16 + Convex realtime backend, Clerk auth, 
 A collaborative system-design canvas where multiple cursors draw architecture in realtime (Liveblocks) while an autonomous Gemini agent proposes, critiques, and renders the system as a software architect would.
 </details>
 
-<a href="https://github.com/RISHII7/ghost-ai"><img src="https://img.shields.io/badge/Code-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RISHII7/ghost-ai"><img src="https://img.shields.io/badge/Code-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://ghost-ai-ruby.vercel.app"><img src="https://img.shields.io/badge/Live-22d3ee?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/RISHII7/roomify">
-  <img src="https://opengraph.githubassets.com/roomify1/RISHII7/roomify" width="100%" alt="roomify"/>
+<a href="https://roomify-virid-six.vercel.app">
+  <img src="https://image.thum.io/get/width/1280/crop/800/wait/6/noanimate/https://roomify-virid-six.vercel.app" width="100%" alt="roomify live preview"/>
 </a>
 
 #### [roomify](https://github.com/RISHII7/roomify)
@@ -158,13 +158,13 @@ A collaborative system-design canvas where multiple cursors draw architecture in
 A serverless AI SaaS that turns 2D blueprints into photorealistic 3D models using Puter.js for compute and Google Gemini for vision — no backend servers to maintain.
 </details>
 
-<a href="https://github.com/RISHII7/roomify"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://rushikesh-indol.vercel.app/"><img src="https://img.shields.io/badge/Live-22d3ee?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://github.com/RISHII7/roomify"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://roomify-virid-six.vercel.app"><img src="https://img.shields.io/badge/Live-22d3ee?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/RISHII7/Nimbus">
-  <img src="https://opengraph.githubassets.com/nimbus1/RISHII7/Nimbus" width="100%" alt="Nimbus"/>
+<a href="https://nimbus-nu-teal.vercel.app">
+  <img src="https://image.thum.io/get/width/1280/crop/800/wait/6/noanimate/https://nimbus-nu-teal.vercel.app" width="100%" alt="Nimbus live preview"/>
 </a>
 
 #### [Nimbus](https://github.com/RISHII7/Nimbus)
@@ -177,7 +177,7 @@ A serverless AI SaaS that turns 2D blueprints into photorealistic 3D models usin
 A premium product site with scroll-driven 3D animation — React Three Fiber + Three.js + GSAP timelines orchestrating a cinematic keyboard reveal.
 </details>
 
-<a href="https://github.com/RISHII7/Nimbus"><img src="https://img.shields.io/badge/Code-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RISHII7/Nimbus"><img src="https://img.shields.io/badge/Code-3b82f6?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://nimbus-nu-teal.vercel.app"><img src="https://img.shields.io/badge/Live-22d3ee?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 </tr>
@@ -188,11 +188,11 @@ A premium product site with scroll-driven 3D animation — React Three Fiber + T
 <details>
 <summary><b>＋ one more · Apple-Macbook</b></summary>
 <br/>
-<a href="https://github.com/RISHII7/Apple-Macbook"><img src="https://opengraph.githubassets.com/apple1/RISHII7/Apple-Macbook" width="70%" alt="Apple-Macbook"/></a>
+<a href="https://apple-macbook-ten.vercel.app"><img src="https://image.thum.io/get/width/1280/crop/800/wait/6/noanimate/https://apple-macbook-ten.vercel.app" width="80%" alt="Apple-Macbook live preview"/></a>
 <br/><br/>
 <b>Apple-style 3D product site</b> · React · Three.js · GSAP · Tailwind — realistic 3D product visualization with Apple-grade scroll choreography. ⭐ 5
 <br/><br/>
-<a href="https://github.com/RISHII7/Apple-Macbook"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RISHII7/Apple-Macbook"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://apple-macbook-ten.vercel.app"><img src="https://img.shields.io/badge/Live-22d3ee?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </details>
 
 <a href="https://github.com/RISHII7?tab=repositories"><img src="https://img.shields.io/badge/See_all_repos_→-0d1117?style=for-the-badge&logo=github&logoColor=8b5cf6"/></a>
@@ -204,15 +204,16 @@ A premium product site with scroll-driven 3D animation — React Three Fiber + T
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  ANALYTICS  ░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center"><h3>📊 GitHub Telemetry</h3></div>
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RISHII7&theme=tokyonight"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=RISHII7&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=22d3ee&currStreakNum=c9d1d9&currStreakLabel=8b5cf6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RISHII7&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RISHII7&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RISHII7&theme=tokyonight" alt="stats"/></td>
+<td width="50%" valign="top"><img width="100%" src="https://streak-stats.demolab.com?user=RISHII7&hide_border=true&background=1A1B27&stroke=8b5cf6&ring=8b5cf6&fire=22d3ee&currStreakNum=c9d1d9&currStreakLabel=8b5cf6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak"/></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RISHII7&theme=tokyonight" alt="top languages"/></td>
+<td width="50%" valign="top"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RISHII7&theme=tokyonight&utcOffset=5.5" alt="productive time"/></td>
+</tr>
+</table>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RISHII7&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=3b82f6&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Pulse"/>
