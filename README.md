@@ -206,11 +206,11 @@ A premium product site with scroll-driven 3D animation — React Three Fiber + T
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RISHII7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=RISHII7&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=22d3ee&currStreakNum=c9d1d9&currStreakLabel=8b5cf6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RISHII7&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=RISHII7&hide_border=true&background=0d1117&stroke=8b5cf6&ring=8b5cf6&fire=22d3ee&currStreakNum=c9d1d9&currStreakLabel=8b5cf6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHII7&layout=compact&langs_count=8&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=RISHII7&theme=algolia&no-frame=true&no-bg=true&column=4&row=2&margin-w=6&margin-h=6"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RISHII7&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RISHII7&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
