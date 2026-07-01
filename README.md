@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/hero.svg" width="100%" alt="Rushikesh — Full-Stack Engineer"/>
 
 <a href="https://github.com/RISHII7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=46&lines=Full-Stack+Engineer+%40+Barclays;Serverless+%26+Edge+Architect;Generative+AI+Builder+%26+Tinkerer;I+reverse-engineer+prod+apps+to+master+them" alt="roles"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&height=46&lines=Software+Engineer+%40+Barclays;Serverless+%26+Edge+Architect;Generative+AI+Builder+%26+Tinkerer;I+reverse-engineer+prod+apps+to+master+them" alt="roles"/>
 </a>
 
 <p>
