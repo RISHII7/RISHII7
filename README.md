@@ -231,33 +231,16 @@ A premium product site with scroll-driven 3D animation — React Three Fiber + T
 
 <details>
 <summary>🛸 <code>decrypt_transmission.exe</code></summary>
-
-```
-        .  *  .   ·   .  ✦   ·   .  *   .  ·  ✦   .
-   ·   ___________      ·       ✦         .    ·
-      /  R I S H  /|        "First, solve the problem.
-     /__________/ |  ✦       Then, write the code."
-     |  ◍  ◍   | |              — and if it breaks at 2am,
-     |   ___    | /   ·          reverse-engineer it till it doesn't.
-     |__________|/
-        ·   .   ✦    ·   .   *   .   ·   ✦   .   *
-```
-
+<br/>
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/transmission.svg" width="88%" alt="decrypted transmission"/>
 </details>
+
+<br/>
 
 <details>
 <summary>☕ <code>system.diagnostics --about-me</code></summary>
-
-```bash
-$ rishii7 --status
-> uptime ........... shipping since first 'console.log'
-> fuel ............. ▓▓▓▓▓▓▓▓▓░ 92% (coffee)
-> open_tabs ........ 47 (3 are docs, 44 are stackoverflow)
-> current_quest .... make ghost-ai think like a real architect
-> superpower ....... breaking prod apps apart to learn how they tick
-> exit_code ........ 0  // we don't ship red builds here
-```
-
+<br/>
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/terminal.svg" width="88%" alt="rishii7 --status terminal"/>
 </details>
 
 </div>
