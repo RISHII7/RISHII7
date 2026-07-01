@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" width="760" height="420" role="img" aria-label="rishii7 status terminal">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0a0a14"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="7"/></filter>
+    <style>
+      @keyframes ln{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}
+      @keyframes blink{50%{opacity:0}}
+      @keyframes shim{0%,100%{opacity:.35}50%{opacity:.9}}
+      .l{opacity:0;animation:ln .5s ease-out forwards}
+      .l1{animation-delay:.15s}.l2{animation-delay:.35s}.l3{animation-delay:.55s}
+      .l4{animation-delay:.75s}.l5{animation-delay:.95s}.l6{animation-delay:1.15s}.l7{animation-delay:1.35s}
+      .cur{animation:blink 1s steps(1) 1.6s infinite}
+      .shim{animation:shim 2.4s ease-in-out infinite}
+      text{font-family:'JetBrains Mono','Fira Code','Consolas',monospace;font-size:16px}
+    </style>
+  </defs>
+
+  <rect x="10" y="10" width="740" height="400" rx="14" fill="#8b5cf6" opacity=".22" filter="url(#soft)"/>
+  <rect x="8" y="8" width="744" height="404" rx="14" fill="url(#win)" stroke="#8b5cf6" stroke-opacity=".45" stroke-width="1.5"/>
+
+  <circle cx="34" cy="32" r="6" fill="#22d3ee"/>
+  <circle cx="56" cy="32" r="6" fill="#8b5cf6"/>
+  <circle cx="78" cy="32" r="6" fill="#3b82f6"/>
+  <text x="104" y="37" fill="#475569" font-size="14" letter-spacing="1">rishii7@echo &#8212; ~/status</text>
+  <line x1="8" y1="52" x2="752" y2="52" stroke="#1f2937"/>
+
+  <text class="l l1" x="32" y="96"><tspan fill="#22d3ee">$</tspan><tspan fill="#e2e8f0"> rishii7 --status</tspan></text>
+
+  <text class="l l2" x="32" y="140"><tspan fill="#8b5cf6">&gt; </tspan><tspan fill="#94a3b8">uptime</tspan><tspan fill="#334155"> ........... </tspan><tspan fill="#e2e8f0">shipping since first </tspan><tspan fill="#22d3ee">'console.log'</tspan></text>
+
+  <text class="l l3" x="32" y="184"><tspan fill="#8b5cf6">&gt; </tspan><tspan fill="#94a3b8">fuel</tspan><tspan fill="#334155"> ............. </tspan></text>
+  <g class="l l3">
+    <rect x="228" y="171" width="196" height="15" rx="7" fill="#1f2937"/>
+    <rect x="228" y="171" width="0" height="15" rx="7" fill="url(#bar)">
+      <animate attributeName="width" from="0" to="180" dur="1.6s" begin="1s" fill="freeze"/>
+    </rect>
+    <rect class="shim" x="228" y="171" width="180" height="15" rx="7" fill="#ffffff" opacity=".0"/>
+    <text x="436" y="184" fill="#22d3ee">92%</text>
+    <text x="486" y="184" fill="#64748b">(coffee)</text>
+  </g>
+
+  <text class="l l4" x="32" y="228"><tspan fill="#8b5cf6">&gt; </tspan><tspan fill="#94a3b8">open_tabs</tspan><tspan fill="#334155"> ........ </tspan><tspan fill="#e2e8f0">47</tspan><tspan fill="#64748b">  &#183;  3 docs, 44 stackoverflow</tspan></text>
+
+  <text class="l l5" x="32" y="272"><tspan fill="#8b5cf6">&gt; </tspan><tspan fill="#94a3b8">quest</tspan><tspan fill="#334155"> ............ </tspan><tspan fill="#e2e8f0">teach </tspan><tspan fill="#8b5cf6">ghost-ai</tspan><tspan fill="#e2e8f0"> to think like an architect</tspan></text>
+
+  <text class="l l6" x="32" y="316"><tspan fill="#8b5cf6">&gt; </tspan><tspan fill="#94a3b8">superpower</tspan><tspan fill="#334155"> ....... </tspan><tspan fill="#e2e8f0">breaking prod apps apart to learn them</tspan></text>
+
+  <text class="l l7" x="32" y="360"><tspan fill="#8b5cf6">&gt; </tspan><tspan fill="#94a3b8">exit_code</tspan><tspan fill="#334155"> ........ </tspan><tspan fill="#22d3ee">0</tspan><tspan fill="#64748b">   //  we don't ship red builds</tspan></text>
+
+  <rect class="cur" x="32" y="384" width="10" height="18" fill="#22d3ee"/>
+</svg>
