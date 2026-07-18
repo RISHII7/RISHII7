@@ -97,6 +97,25 @@ currently:   shipping ghost-ai + echo monorepo
 
 <img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/divider.svg" width="100%" alt="―――"/>
 
+<!-- ░░░░░░░░░░░░░░░░░░░░░░  PORTFOLIO SPOTLIGHT  ░░░░░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
+
+### 🌐 Portfolio
+
+<a href="https://rishii-two.vercel.app/">
+  <img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/portfolio-preview.png" width="100%" alt="Rushikesh Palande portfolio — live preview"/>
+</a>
+
+**A dark, editorial site built as a design system first** — canvas-dithered portrait rendered pixel-by-pixel in the browser, live scroll/cursor telemetry, and nine real case studies written from the shipped repos, not boilerplate.
+
+<img src="https://img.shields.io/badge/React_19-000?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_v4-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+
+<a href="https://rishii-two.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio_→-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/divider.svg" width="100%" alt="―――"/>
+
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  FEATURED BUILDS  ░░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center"><h3>🛠️ Featured Builds</h3></div>
 
@@ -105,7 +124,7 @@ currently:   shipping ghost-ai + echo monorepo
 <td width="50%" valign="top" align="center">
 
 <a href="https://github.com/RISHII7/echo">
-  <img src="https://image.thum.io/get/width/1280/crop/800/wait/6/noanimate/https://github.com/RISHII7/echo" width="100%" alt="echo"/>
+  <img src="https://raw.githubusercontent.com/RISHII7/RISHII7/main/assets/echo-preview.png" width="100%" alt="echo — AI support platform, operator dashboard"/>
 </a>
 
 #### [echo](https://github.com/RISHII7/echo) ⭐
