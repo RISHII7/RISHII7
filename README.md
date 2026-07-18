@@ -12,7 +12,7 @@
 </a>
 
 <p>
-  <a href="rishii-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=8b5cf6&labelColor=0d1117"/></a>
+  <a href="https://rishii-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=8b5cf6&labelColor=0d1117"/></a>
   <a href="https://www.linkedin.com/in/rushikesh07"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6&labelColor=0d1117"/></a>
   <a href="https://instagram.com/rishii__0702"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e1306c&labelColor=0d1117"/></a>
   <a href="mailto:rishikesh.palande07@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=0d1117"/></a>
