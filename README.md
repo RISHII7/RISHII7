@@ -129,15 +129,15 @@ currently:   shipping ghost-ai + echo monorepo
 
 #### [echo](https://github.com/RISHII7/echo) ⭐
 
-`Enterprise-grade full-stack monorepo`
+`AI-powered customer support platform`
 
-<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white"/> <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/> <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui"/>
+<img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs"/> <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_RAG-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Vapi_Voice-000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white"/>
 
 <details><summary><b>read more</b></summary><br/>
-A production-shaped monorepo: Next.js 16 + Convex realtime backend, Clerk auth, Turborepo task graph, shadcn/ui design system. Built to study how enterprise apps wire auth, multi-tenant data, and CI together.
+Drop one script tag on any website and give customers a 24/7 AI support agent — chat and voice — grounded in your own docs. A multi-tenant SaaS: three independently deployed apps in one Turborepo (dashboard, widget, embed loader), a Gemini 2.5 Flash agent that answers exclusively from your uploaded knowledge base via RAG, live Vapi voice calls, and a realtime operator inbox with one-click human takeover the moment the AI shouldn't handle it alone.
 </details>
 
-<a href="https://github.com/RISHII7/echo"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RISHII7/echo"><img src="https://img.shields.io/badge/Code-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://echo-red-kappa.vercel.app"><img src="https://img.shields.io/badge/Live-22d3ee?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </td>
 <td width="50%" valign="top" align="center">
